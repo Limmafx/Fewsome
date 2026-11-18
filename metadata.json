@@ -1,0 +1,6 @@
+{
+  "name": "French Numbers",
+  "description": "Адаптивный тренажёр французских чисел и телефонных номеров: перетаскивание, ввод текста, сборка из слов, аудирование, произношение, фонетика и интервальное повторение.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
